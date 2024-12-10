@@ -58,12 +58,12 @@ The goal of this project is to analyze the data to:
 - **analysis_script.py**: The Python script for cleaning, analyzing, and visualizing the data.
 - **visualizations/**: A folder containing various charts and graphs generated during the analysis.
 
-##Future Work
+## Future Work
 Integration with external sources to enhance data accuracy.
 Predictive analysis for road accident trends in future years.
 Incorporate more granular data (e.g., accident severity, weather conditions) for deeper insights.
 
-##Acknowledgments
+## Acknowledgments
 Dataset sourced from kaggle.com
 
 
